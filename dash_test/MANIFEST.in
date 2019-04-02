@@ -1,0 +1,5 @@
+include dash_test/dash_test.min.js
+include dash_test/dash_test.dev.js
+include dash_test/metadata.json
+include dash_test/package.json
+include README.md
